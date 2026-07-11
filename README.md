@@ -1,0 +1,1 @@
+# Open each Task folder. Use Live Server for Task4 (modules). Open browser console (F12) to view output.
